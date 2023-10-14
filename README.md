@@ -1,6 +1,9 @@
 # AmazonDashboard_PowerBi
 📊 Power BI Dashboard Repository: AmazonDashboard_PowerBi
 
+![image](https://github.com/nikitagund17/AmazonDashboard_PowerBi/assets/114844482/82adfb41-e101-4290-a2b2-9bc2b0a3a774)
+
+
 🚀 Excited to share my first Power BI dashboard on GitHub! This repository is dedicated to our Amazon sales and performance analysis.
 
 📈 What you'll find here:
